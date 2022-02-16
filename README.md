@@ -8,7 +8,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `NodeJS` e `NPM`.
-* Você tem uma máquina `<Windows>`. Indique qual sistema operacional é compatível / não compatível.
+* Você tem uma máquina `Windows` ou `Linux`. 
 
 
 ## ☕ Usando
