@@ -16,7 +16,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Após ter feito o clone ou baixado o projeto em sua máquina use o seguinte comando:
 
 ```
-<npm start>
+npm start
 ``` 
 
 O projeto será inicializado na rota `http://localhost:3001`.
