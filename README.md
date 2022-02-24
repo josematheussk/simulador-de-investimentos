@@ -7,7 +7,7 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* A API relatada [neste repositório] (https://github.com/user/repo/blob/branch/other_file.md) está disponível para consumo na rota `http://localhost:3000/`
+* A API relatada [neste repositório](https://github.com/user/repo/blob/branch/other_file.md) está disponível para consumo na rota `http://localhost:3000/`
 
 * Você instalou a versão mais recente do `NodeJS` e `NPM`.
 * Você tem uma máquina `Windows` ou `Linux`. 
